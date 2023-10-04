@@ -44,3 +44,6 @@ button {
   background: #0c6efd;
   cursor: pointer;
 }
+body {
+  border-radius: 5px 5px 5px 5px;
+}
