@@ -1,3 +1,45 @@
+.search-form {
+  display: block;
+  padding-right: 400px;
+  margin: 100px auto;
+  border-radius: 20px 20px 20px 20px;
+}
+.container {
+  background: radial-gradient(
+    circle at 12.3% 19.3%,
+    rgb(85, 88, 218) 0%,
+    rgb(95, 209, 249) 100.2%
+  );
+}
+.weather {
+  position: absolute;
+  top: 200px;
+  left: 80px;
+  font-size: 30px;
+}
+.breakdown {
+  padding: 20px;
+  position: absolute;
+  top: 100px;
+  right: 70px;
+}
 h1 {
-  color: blue;
+  text-align: center;
+}
+h2 {
+  padding-top: 70px;
+  text-align: center;
+}
+.icon {
+  text-align: center;
+  font-size: 200px;
+}
+button {
+  display: block;
+  position: absolute;
+  right: 350px;
+  bottom: 680px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 0.5px 20px 5px 20px;
+  background: #0c6efd;
 }
